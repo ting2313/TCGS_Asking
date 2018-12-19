@@ -20,7 +20,7 @@
 	* 「iloveyou」：BOT彩蛋。
 
 ## State Diagram
-	<待補>
+	https://raw.githubusercontent.com/ting2313/TCGS_Asking/master/fsm.png
 	
 ## 作業要求確認
 * Basic Requirement:皆符合
